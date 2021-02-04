@@ -18,7 +18,7 @@ Item
 
     PlasmaComponents.Label
              {
-                 id: num_label      
+                 id: logo_label      
                  text: "WeChat " 
                  anchors.fill: parent
             }
