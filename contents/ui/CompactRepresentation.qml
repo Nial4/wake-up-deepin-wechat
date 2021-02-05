@@ -10,8 +10,8 @@ Item
     id: root
 
     anchors.fill: parent
-    Layout.preferredWidth:     55
-    Layout.maximumWidth:       55
+    Layout.preferredWidth:     50
+    Layout.maximumWidth:       50
 
     // Layout.preferredHeight:     0
     // Layout.maximumHeight:       0
@@ -19,7 +19,7 @@ Item
     PlasmaComponents.Label
              {
                  id: logo_label      
-                 text: "WeChat " 
+                 text: "WeChat" 
                  anchors.fill: parent
             }
 
